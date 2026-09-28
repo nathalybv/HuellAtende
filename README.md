@@ -12,3 +12,6 @@ Trabajo Final del Curso de Algoritmia y Programación.
 * **Descripción:** Estudiante de Ing Industrial, proactiva con facilidad de aprender cosas nuevas, con ideas creativas e innovadoras. 
 ## 5. Paula Plata
 * **Descripción:** Estudiante de Ing Industrial, con excelentes habilidades de planificación, gestión de tiempo y coordinación de equipos.
+
+## Nombre del proyecto y detalles
+* **HuellAtende** es un programa en Python creado para recibir, organizar y hacerle seguimiento fácil a las PQRS de los perritos y gaticos de la UdeA, asegurando radicados ordenados, control de plazos y estadísticas en tiempo real. Se eligió este nombre porque combina la idea de dejar una "huella" positiva en el bienestar animal del campus con la misión principal del software: "atender" y dar una respuesta oportuna a las solicitudes de la comunidad.

@@ -15,3 +15,7 @@ Trabajo Final del Curso de Algoritmia y Programación.
 
 ## Nombre del proyecto y detalles
 * **HuellAtende** es un programa en Python creado para recibir, organizar y hacerle seguimiento fácil a las PQRS de los perritos y gaticos de la UdeA, asegurando radicados ordenados, control de plazos y estadísticas en tiempo real. Se eligió este nombre porque combina la idea de dejar una "huella" positiva en el bienestar animal del campus con la misión principal del software: "atender" y dar una respuesta oportuna a las solicitudes de la comunidad.
+* **Logo:**
+
+  <img width="700" height="700" alt="1" src="https://github.com/user-attachments/assets/89ae53c3-4746-40ad-84af-546678bc424a" />
+

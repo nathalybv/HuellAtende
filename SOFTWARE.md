@@ -2,7 +2,7 @@
 
 ### Descripción general del software
 
-El proyecto consiste en el desarrollo de un software para la gestión de Peticiones, Quejas, Reclamos y Sugerencias (PQRS), orientado a apoyar los procesos de atención del Movimiento Estudiantil de Perritos y Gaticos (MEPEGA) de la Universidad de Antioquia. El sistema busca facilitar el registro, almacenamiento, consulta y actualización de las solicitudes relacionadas con la atención de perros y gatos, permitiendo organizar la información de manera estructurada y eficiente.
+El proyecto consiste en el desarrollo de un software para la gestión de Peticiones, Quejas, Reclamos y Sugerencias (PQRS), orientado a apoyar los procesos de atención del Movimiento Estudiantil de Perritos y Gaticos (HuellAtende) de la Universidad de Antioquia. El sistema busca facilitar el registro, almacenamiento, consulta y actualización de las solicitudes relacionadas con la atención de perros y gatos, permitiendo organizar la información de manera estructurada y eficiente.
 
 El software contará con una interfaz de consola amigable que permitirá al administrador registrar nuevas PQRS, consultar su estado, actualizar la información correspondiente y generar estadísticas sobre los registros. Asimismo, cada solicitud tendrá un número de radicado único y consecutivo, junto con información del solicitante, el tipo de solicitud, la mascota relacionada, el campus y las fechas asociadas a su gestión.
 
@@ -10,7 +10,7 @@ La información será almacenada mediante archivos planos independientes para ca
 
 ### Objetivo del software
 
-Desarrollar un sistema de información que permita gestionar de manera organizada las PQRS relacionadas con la atención de perros y gatos en la Universidad de Antioquia, facilitando el registro, almacenamiento, consulta y seguimiento de las solicitudes, así como la generación de reportes y estadísticas que apoyen la gestión administrativa de MEPEGA.
+Desarrollar un sistema de información que permita gestionar de manera organizada las PQRS relacionadas con la atención de perros y gatos en la Universidad de Antioquia, facilitando el registro, almacenamiento, consulta y seguimiento de las solicitudes, así como la generación de reportes y estadísticas que apoyen la gestión administrativa de HuellAtende.
 
 ### Beneficios del software
 
@@ -22,7 +22,7 @@ Desarrollar un sistema de información que permita gestionar de manera organizad
 - **Trazabilidad:** asigna un número de radicado único a cada solicitud, facilitando su identificación y seguimiento.
 - **Apoyo a la toma de decisiones:** proporciona información organizada que puede contribuir a identificar necesidades y mejorar la gestión de las solicitudes recibidas.
 
-En conjunto, el software busca optimizar la gestión de las PQRS de MEPEGA mediante una herramienta accesible, organizada y funcional, que contribuya al seguimiento de las solicitudes y al mejoramiento de los procesos de atención de perros y gatos en la Universidad de Antioquia.
+En conjunto, el software busca optimizar la gestión de las PQRS de HuellAtende mediante una herramienta accesible, organizada y funcional, que contribuya al seguimiento de las solicitudes y al mejoramiento de los procesos de atención de perros y gatos en la Universidad de Antioquia.
 
 ## Especificación de requisitos del SoftWare
 
@@ -47,4 +47,4 @@ Los requisitos no funcionales especifican criterios que pueden usarse para juzga
 * **RNF02 - Confiabilidad y Persistencia:** La información almacenada en los archivos planos debe garantizar la integridad de los datos para evitar pérdidas de información de las PQRS registradas.
 * **RNF03 - Rendimiento:** El sistema debe procesar las consultas, registros y la generación de reportes estadísticos de forma rápida y eficiente en un entorno de consola.
 * **RNF04 - Compatibilidad:** El software debe ser compatible con entornos estándar de ejecución de código para facilitar su despliegue y uso administrativo.
-* **RNF05 - Disponibilidad:** El sistema debe estar disponible para su uso local por parte del administrador del MEPEGA cada vez que se requiera gestionar una solicitud.
+* **RNF05 - Disponibilidad:** El sistema debe estar disponible para su uso local por parte del administrador del HuellAtende cada vez que se requiera gestionar una solicitud.
